@@ -18,8 +18,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "fixit6GH",
-            "fixit6GH.json"
+            "pets",
+            "pets.json"
           ]
         }
       ],
@@ -39,7 +39,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "fixit6GH",
+      "firstform": "pets",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
